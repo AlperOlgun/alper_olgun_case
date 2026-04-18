@@ -1,6 +1,2 @@
 pytest
-selenium
-webdriver-manager
 requests
-pytest-html
-locust
